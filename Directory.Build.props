@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Iskander Sierra</Authors>
+    <Company>PolyCoder</Company>
+    <Product>DotNetX.KeyValueStorage</Product>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+</Project>
